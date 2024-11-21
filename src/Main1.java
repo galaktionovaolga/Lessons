@@ -13,6 +13,7 @@ public class Main1 {
 
         System.out.println(str.substring(3, 6));
         System.out.println(str.substring(3, str.length()));
+        System.out.println(str.substring(3, str.length()));
 
 
 
